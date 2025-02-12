@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Soham Door Industries - Door Manufacturing Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Soham Door Industries** is a dedicated platform designed to showcase a wide range of doors and door-related products. The website offers a comprehensive catalog of various types of doors, highlighting their unique features and applications. It serves as a digital showroom for customers looking to explore high-quality doors for both residential and commercial purposes. Through this platform, visitors can view detailed product descriptions, high-quality images, and gain insights into the diverse range of products offered by Soham Door Industries.
 
-## Available Scripts
+The website is designed to be visually appealing, easy to navigate, and responsive across devices, providing an optimal user experience on both desktop and mobile devices.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Product Showcase:** The website displays a range of doors, including various types and models, with detailed information about each product. The product descriptions provide specifications, materials, and available sizes to help customers make informed purchasing decisions.
+- **High-Quality Product Images:** Utilizing images from Unsplash, the website provides clear and detailed photos of the products, showcasing their design, texture, and application in real-life scenarios.
+- **Responsive Design:** The website is fully responsive, ensuring a seamless and user-friendly experience across all screen sizes, whether on desktop, tablet, or mobile devices.
+- **Company Overview:** The platform offers detailed information about Soham Door Industries, highlighting the company’s mission, values, and its dedication to quality manufacturing.
+- **Contact Information:** A section dedicated to contact information and how customers can reach out for inquiries, quotes, or more information about the products.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The following technologies were used in the development of the Soham Door Industries website:
 
-### `npm test`
+- **HTML:** Used to create the structure and layout of the website.
+- **CSS:** Applied custom styling to enhance the appearance of the platform.
+- **Tailwind CSS:** A utility-first CSS framework that allowed for rapid and efficient styling, ensuring a clean and responsive design.
+- **React JS:** The core JavaScript library used for building the user interface, handling interactivity, and managing the state of the application.
+- **Git & GitHub:** Version control tools used for managing the development process and hosting the codebase on GitHub.
+- **VS Code:** A powerful code editor used for writing and editing the website’s source code.
+- **Unsplash:** Used to source high-quality, royalty-free images to showcase the products in the most visually appealing way possible.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+https://github.com/user-attachments/assets/c3c754ed-b7a9-4559-a5b4-a47e3601bde3
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
